@@ -1,47 +1,45 @@
 body{
     font-family: "Roboto", sans-serif;
     color: #434455;
+    background-color: #FFFFFF;
 }
 
 .main-title{
     font-family: "Roboto", sans-serif;
-    font-weight: bold;
+    font-weight: 500;
     font-size: 56px;
-    letter-spacing: 2%;
-    line-height: 60px;
+    letter-spacing: 0.02em;
+    line-height: 1.07;
+    text-align: center;
     color: #FFFFFF;
 }
 .second-title{
 font-family: "Roboto", sans-serif;
-font-weight: bold;
+font-weight: 500;
 font-size: 36px;
-letter-spacing: 2%;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
 color: #2E2F42;
 }
 .third-title{
 font-family: "Roboto", sans-serif;
-font-weight: medium;
+font-weight: 500;
 font-size: 20px;
-letter-spacing: 2%;
+letter-spacing: 0.02em;
 color: #2E2F42;
 }
 .description{
 font-family: "Roboto", sans-serif;
-font-weight: regular;
+font-weight: 500;
 font-size: 16px;
-line-height: 3.75;
-letter-spacing: 2%;
+line-height: 1.5;
+letter-spacing: 0.02em;
 color: #434455;
 }
 .hero{
 background-color: #2E2F42;
 }
-.benefits{
-background-color: #FFFFFF;
-}
 .our-team{
 background-color: #F4F4FD;
-}
-.portfolio{
-background-color: #FFFFFF;
 }
