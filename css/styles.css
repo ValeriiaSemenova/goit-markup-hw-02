@@ -1,0 +1,47 @@
+body{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+}
+
+.main-title{
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+.second-title{
+font-family: "Roboto", sans-serif;
+font-weight: bold;
+font-size: 36px;
+letter-spacing: 2%;
+color: #2E2F42;
+}
+.third-title{
+font-family: "Roboto", sans-serif;
+font-weight: medium;
+font-size: 20px;
+letter-spacing: 2%;
+color: #2E2F42;
+}
+.description{
+font-family: "Roboto", sans-serif;
+font-weight: regular;
+font-size: 16px;
+line-height: 3.75;
+letter-spacing: 2%;
+color: #434455;
+}
+.hero{
+background-color: #2E2F42;
+}
+.benefits{
+background-color: #FFFFFF;
+}
+.our-team{
+background-color: #F4F4FD;
+}
+.portfolio{
+background-color: #FFFFFF;
+}
