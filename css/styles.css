@@ -15,6 +15,7 @@ body{
 }
 .logo-studio{
     color: #2E2F42;
+    line-height: 1,17;
 }
 
 .main-title{
@@ -59,7 +60,7 @@ background-color: #2E2F42;
 background-color: #F4F4FD;
 }
 
-.footer{
+.footer-style{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
@@ -79,4 +80,5 @@ background-color: #F4F4FD;
 }
 .logo-studio-footer{
     color:#F4F4FD;
+    line-height: 1,17;
 }
