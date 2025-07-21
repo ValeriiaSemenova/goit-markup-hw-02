@@ -4,6 +4,19 @@ body{
     background-color: #FFFFFF;
 }
 
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+    line-height: 1,17;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+.logo-studio{
+    color: #2E2F42;
+}
+
 .main-title{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -26,6 +39,7 @@ color: #2E2F42;
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
+line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
@@ -42,4 +56,26 @@ background-color: #2E2F42;
 }
 .our-team{
 background-color: #F4F4FD;
+}
+
+.footer{
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+    color: #F4F4FD;
+   background-color: #2E2F42;
+}
+.logo-footer{
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        letter-spacing: 0.03em;
+        line-height: 1,17;
+        text-transform: uppercase;
+        color: #4D5AE5;
+}
+.logo-studio-footer{
+    color:#F4F4FD;
 }
