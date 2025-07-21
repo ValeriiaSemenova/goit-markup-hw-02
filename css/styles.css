@@ -18,7 +18,6 @@ body{
 }
 
 .main-title{
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 56px;
     letter-spacing: 0.02em;
@@ -27,7 +26,6 @@ body{
     color: #FFFFFF;
 }
 .second-title{
-font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 36px;
 line-height: 1.11;
@@ -37,7 +35,6 @@ text-transform: capitalize;
 color: #2E2F42;
 }
 .third-title{
-font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -45,7 +42,6 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
 .description{
-font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -76,7 +72,6 @@ background-color: #F4F4FD;
     color:#F4F4FD;
 }
 .text-footer{
-    font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -89,7 +84,6 @@ background-color: #F4F4FD;
 
 
 .hero-button{
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -130,4 +124,12 @@ color: #404bbf;
 .contact:hover,
 .contact:focus{
     color: #404bbf;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
 }
